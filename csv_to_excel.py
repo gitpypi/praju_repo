@@ -1,3 +1,6 @@
+""" 
+Utility script to convert CSV to Excel format
+"""
 import unicodecsv
 import xlwt
 import os
